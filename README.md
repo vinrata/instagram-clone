@@ -8,8 +8,6 @@ React hooks (useEffect and useState)
 <img src="firebaselogo.png" /><br>
 
 ## Full Account Creation 
-
-the GIF below shows the account creation process in the app.
 <img src="accountCreation.gif" />
 <br>
 
@@ -19,13 +17,12 @@ the GIF below shows the account creation process in the app.
 <br>
 
 ### Fully Functional on Mobile
-The GIF below shows the mobile functionality of the app.
 <img src ="mobileUploading.gif" />
 <br>
 
 ### Comments Stored In Database
 Firebase allows for real-time updating in the database everytime a new comment is made on a post.
-The GIF below shows a new comment being made and the database updates in real-time.
+This GIF shows a new comment being made and the database updates in real-time.
 
 <img src="commnetsInDatabase.gif" />
 
