@@ -1,10 +1,14 @@
 # My Instagram Clone App
 
 This project was made with React and Firebase.
-
+<h2 href="https://instagram-clone-vinrata-96143.web.app/" > Click Here To use The App! </h2>
+<img src="reactlogo.png" />
+<img src="firebaselogo.png" />
 ## Full Account Creation 
 
-In the project directory, you can run:
+the GIF below shows the account creation process in the app.
+<img src="accountCreation.gif" />
+
 
 ### `npm start`
 
@@ -15,19 +19,15 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ### Fully Functional on Mobile
+The GIF below shows the mobile functionality of the app.
 <img src ="mobileUploading.gif" />
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Comments Stored In Database
+Firebase allows for real-time updating in the database everytime a new comment is made on a post.
+The GIF below shows a new comment being made and the database updates in real-time.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<img src="commnetsInDatabase.gif" />
 
 ### `npm run eject`
 
